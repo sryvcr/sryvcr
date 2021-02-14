@@ -38,4 +38,19 @@ My name is Felipe, or in ROT13: sryvcr.
 </br>
 </br>
 
+## 📈 My metrics
+
+<p align="center">
+    </br>
+    </br>
+    <img src="https://github-readme-stats.vercel.app/api?username=sryvcr&show_icons=true&theme=highcontrast" alt="sryvcrstats" />
+    </br>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sryvcr&show_icons=true&theme=highcontrast" alt="sryvcrlanguages" />
+    </br>
+    </br>
+</p>
+
 ---
