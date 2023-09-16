@@ -8,12 +8,9 @@
     }
 </style>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/sryvcr-v1.0.0-green">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=sryvcr.sryvcr">
+<div class="center">
+    <img src="https://img.shields.io/badge/sryvcr-v1.1.0-green">
     <img src="https://img.shields.io/github/stars/sryvcr?style=flat">
-    </br>
-    </br>
 </div>
 
 ## Hi there 👋
