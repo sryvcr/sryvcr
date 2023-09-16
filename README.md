@@ -1,3 +1,13 @@
+<style>
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top:25px;
+        margin-bottom:10px;
+    }
+</style>
+
 <div align="center">
     <img src="https://img.shields.io/badge/sryvcr-v1.0.0-green">
     <img src="https://visitor-badge.glitch.me/badge?page_id=sryvcr.sryvcr">
