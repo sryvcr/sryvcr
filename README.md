@@ -1,14 +1,4 @@
-<style>
-    .center {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-top:25px;
-        margin-bottom:10px;
-    }
-</style>
-
-<div class="center">
+<div align="center">
     <img src="https://img.shields.io/badge/sryvcr-v1.1.0-green">
     <img src="https://img.shields.io/github/stars/sryvcr?style=flat">
 </div>
@@ -45,9 +35,10 @@ My name is Felipe, or in ROT13: sryvcr.
 
 ## 📈 My metrics
 
-<div class="center">
-    <img style="margin-right:50px;" src="https://github-readme-stats.vercel.app/api?username=sryvcr&show_icons=true&theme=highcontrast" alt="sryvcrstats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sryvcr&show_icons=true&theme=highcontrast" alt="sryvcrlanguages" />
+<div align="center">
+    <span><img src="https://github-readme-stats.vercel.app/api?username=sryvcr&show_icons=true&theme=highcontrast" alt="sryvcrstats"/></span>
+    <span><a href="#" height=5000000 width=500000></a></span>
+    <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sryvcr&show_icons=true&theme=highcontrast" alt="sryvcrlanguages"/></span>
 </div>
 
 ---
