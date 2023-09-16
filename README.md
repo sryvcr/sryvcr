@@ -17,11 +17,12 @@
 
 My name is Felipe, or in ROT13: sryvcr.  
 
-- 🔭 I’m currently working on backend with python (flask and django) & node.js (typescript).
-- 🌱 I’m currently learning more and more about the backend world and its tools.
+- 💻 I’m right away working on backend with Python (Django and Flask) & Node.js (Typescript).
+- 🌱 I’m currently learning further around the backend world and its tools.
+- 🤓 I'm interested about DevOps and Cibersecurity.
 - 🦾 I’m looking to collaborate with other people in personal and business projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/felipegonzalezs/).
 - ⚡ Fun fact: I ❤️ juggling and throwing objects to the air 🤹
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipegonzalezs/)
 
 ## 🧑‍💻 Languages and Tools:
 
